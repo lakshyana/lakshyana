@@ -3,8 +3,8 @@
 - 📖 In grad school, I have specialized in the field of AI and Machine Learning. In an increasingly data-centric world, I am fascinated by the growing power and potential of Machine Learning applications to transform multiple sectors.
 - 👀 I am actively seeking machine learning engineer Spring internship as well as fulltime roles and open to computer vision, natural language processing, or multimodal projects.
 
-- 👩‍💻 I’m happy to collaborate on projects where I can put my learnings to practice and learn from one another. 
-- 📫 You can reach me at my firstname.lastname@nyu.edu for further communication. 
+- 👩‍💻 I’m happy to collaborate on projects where I can put my learnings to practice and learn from one another. I am also open to exploring more challenging projects that would require me to pick up new skills on the go. 
+- 📫 You can reach me at my firstname.lastname@nyu.edu (where firstname = lakshyana & lastname= kc) or via LinkedIn! 
 
 <!---
 lakshyana/lakshyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
